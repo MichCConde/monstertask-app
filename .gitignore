@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+*.log
+npm-debug.log*
+
+# Firebase
+.firebase/
+firebase-debug.log
+firestore-debug.log
+ui-debug.log
+*-debug.log
+
+# Env (NEVER commit)
+.env
+.env.local
+.env.*.local
+
+# Build outputs
+backend/functions/lib/
+frontend/.next/
+frontend/out/
+frontend/dist/
+desktop/dist/
+desktop/release/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
