@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "monstertask-dev",
+    "dev": "monstertask-dev",
+    "staging": "monstertask-staging",
+    "prod": "monstertask-prod"
+  }
+}
